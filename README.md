@@ -64,4 +64,39 @@ Some of The Most Important SQL Commands
     CREATE INDEX - creates an index (search key)
     DROP INDEX - deletes an index
 
+MySQL SELECT Statement
+----------------------
+The following SQL statement selects the "CustomerName", "City", and "Country" columns from the "Customers" table.
+
+SELECT CustomerName, City, Country FROM Customers;
+
+The following SQL statement selects only the DISTINCT values from the "Country" column in the "Customers" table.
+
+SELECT DISTINCT Country FROM Customers;
+
+SELECT COUNT(DISTINCT Country) FROM Customers; 
+
+MySQL WHERE Clause
+------------------
+
+The WHERE clause is used to filter records.
+It is used to extract only those records that fulfill a specified condition.
+
+The following SQL statement selects all the customers from "Mexico"
+
+SELECT * FROM Customers
+WHERE Country = 'Mexico'; 
+
+Text Fields vs. Numeric Fields
+
+SQL requires single quotes around text values (most database systems will also allow double quotes).
+However, numeric fields should not be enclosed in quotes.
+
+The following SQL statement selects a specific customer by ID
+
+SELECT * FROM Customers
+WHERE CustomerID = 1; 
+
+
+
 
