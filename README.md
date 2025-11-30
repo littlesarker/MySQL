@@ -97,6 +97,9 @@ The following SQL statement selects a specific customer by ID
 SELECT * FROM Customers
 WHERE CustomerID = 1; 
 
+<img width="1092" height="605" alt="image" src="https://github.com/user-attachments/assets/dbbd4cbe-42b7-4cf3-adeb-2fb11c7d0391" />
+
+
 
 
 
