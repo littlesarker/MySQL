@@ -102,29 +102,34 @@ WHERE CustomerID = 1;
 MySQL AND operator 
 ------------------
 The following SQL statement selects all fields from "Customers" where country is "Germany" AND city is "Berlin"
+
 select * from Customers 
 where  Country="Germany" and  City="Berlin";
 
 MySQL OR operator 
 ------------------
 The following SQL statement selects all fields from "Customers" where city is "Berlin" OR "Stuttgart"
+
 SELECT * FROM Customers
 WHERE City = 'Berlin' OR City = 'Stuttgart';
 
 
 MySQL NOT operator 
 ------------------
-The following SQL statement selects all fields from "Customers" where country is NOT "Germany":
+The following SQL statement selects all fields from "Customers" where country is NOT "Germany"
+
 SELECT * FROM Customers
 WHERE NOT Country = 'Germany';
 
 Combining AND, OR and NOT
 -------------------------
 The following SQL statement selects all fields from "Customers" where country is "Germany" AND city must be "Berlin" OR "Stuttgart" (use parenthesis to form complex expressions)
+
 SELECT * FROM Customers
 WHERE Country = 'Germany' AND (City = 'Berlin' OR City = 'Stuttgart'); 
 
 The following SQL statement selects all fields from "Customers" where country is NOT "Germany" and NOT "USA"
+
 SELECT * FROM Customers
 WHERE NOT Country = 'Germany' AND NOT Country = 'USA'; 
 
