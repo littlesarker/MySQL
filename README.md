@@ -145,6 +145,12 @@ ORDER BY Several Columns Example
 SELECT * FROM Customers
 ORDER BY Country, CustomerName; 
 
+MySQL INSERT INTO Statement
+---------------------------
+The INSERT INTO statement is used to insert new records in a table
+<img width="1298" height="586" alt="image" src="https://github.com/user-attachments/assets/ce6fba2f-9a26-47cb-abb0-fe070bc16a30" />
+
+
 
 
 
