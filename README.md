@@ -99,6 +99,35 @@ WHERE CustomerID = 1;
 
 <img width="1092" height="605" alt="image" src="https://github.com/user-attachments/assets/dbbd4cbe-42b7-4cf3-adeb-2fb11c7d0391" />
 
+MySQL AND operator 
+------------------
+The following SQL statement selects all fields from "Customers" where country is "Germany" AND city is "Berlin"
+select * from Customers 
+where  Country="Germany" and  City="Berlin";
+
+MySQL OR operator 
+------------------
+The following SQL statement selects all fields from "Customers" where city is "Berlin" OR "Stuttgart"
+SELECT * FROM Customers
+WHERE City = 'Berlin' OR City = 'Stuttgart';
+
+
+MySQL NOT operator 
+------------------
+The following SQL statement selects all fields from "Customers" where country is NOT "Germany":
+SELECT * FROM Customers
+WHERE NOT Country = 'Germany';
+
+Combining AND, OR and NOT
+-------------------------
+The following SQL statement selects all fields from "Customers" where country is "Germany" AND city must be "Berlin" OR "Stuttgart" (use parenthesis to form complex expressions)
+SELECT * FROM Customers
+WHERE Country = 'Germany' AND (City = 'Berlin' OR City = 'Stuttgart'); 
+
+The following SQL statement selects all fields from "Customers" where country is NOT "Germany" and NOT "USA"
+SELECT * FROM Customers
+WHERE NOT Country = 'Germany' AND NOT Country = 'USA'; 
+
 
 
 
