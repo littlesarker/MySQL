@@ -150,6 +150,56 @@ MySQL INSERT INTO Statement
 The INSERT INTO statement is used to insert new records in a table
 <img width="1298" height="586" alt="image" src="https://github.com/user-attachments/assets/ce6fba2f-9a26-47cb-abb0-fe070bc16a30" />
 
+NuLL Values
+-----------
+A field with a NULL value is a field with no value.
+
+The following SQL lists all customers with a NULL value in the "Address" field.
+
+SELECT CustomerName, ContactName, Address
+FROM Customers
+WHERE Address IS NULL;
+
+
+Update
+-------
+he UPDATE statement is used to modify the existing records in a table.
+
+The following SQL statement updates the first customer (CustomerID = 1) with a new contact person and a new city.
+
+update Customers
+set ContactName ='Shariful',City='Dhaka'
+where CustomerID=1;
+
+
+Delete
+------
+The DELETE statement is used to delete existing records in a table.
+
+The following SQL statement deletes the customer "Alfreds Futterkiste" from the "Customers" table
+
+DELETE FROM Customers WHERE CustomerName='Alfreds Futterkiste';
+
+
+Limit
+-----
+The LIMIT clause is used to specify the number of records to return.
+
+The following SQL statement selects the first three records from the Customers" table.
+
+SELECT * FROM Customers
+LIMIT 3; 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
