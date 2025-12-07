@@ -230,7 +230,6 @@ The SUM() function returns the total sum of a numeric column.
 
 <img width="320" height="85" alt="image" src="https://github.com/user-attachments/assets/cba16866-0a6c-4ab8-ad07-e7df4d3fa3ac" />
 
-
 Like
 ----
 <img width="810" height="172" alt="image" src="https://github.com/user-attachments/assets/4752c977-32fa-49f5-9997-fea574268253" />
@@ -241,11 +240,19 @@ Like
 <img width="988" height="225" alt="image" src="https://github.com/user-attachments/assets/5ccaf77c-eb34-47b3-9c4f-d69cbb4378f6" />
 <img width="1301" height="595" alt="image" src="https://github.com/user-attachments/assets/3c12dbd9-bd2c-436e-bf57-6bfba398ce28" />
 
-
 IN
 --
 The IN operator allows you to specify multiple values in a WHERE clause.
 <img width="965" height="608" alt="image" src="https://github.com/user-attachments/assets/b9e178c3-3a2c-4707-9b2b-20d07db220b0" />
+
+
+BETWEEN
+-------
+The BETWEEN operator selects values within a given range. The values can be numbers, text, or dates.
+
+<img width="710" height="216" alt="image" src="https://github.com/user-attachments/assets/90707606-8ec1-4f73-a5bf-035052adf201" />\
+<img width="961" height="222" alt="image" src="https://github.com/user-attachments/assets/af5ae98e-2643-4e06-bbdf-6537e4bd91cb" />
+
 
 
 
