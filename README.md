@@ -242,6 +242,14 @@ Like
 <img width="1301" height="595" alt="image" src="https://github.com/user-attachments/assets/3c12dbd9-bd2c-436e-bf57-6bfba398ce28" />
 
 
+IN
+--
+The IN operator allows you to specify multiple values in a WHERE clause.
+<img width="965" height="608" alt="image" src="https://github.com/user-attachments/assets/b9e178c3-3a2c-4707-9b2b-20d07db220b0" />
+
+
+
+
 
 
 
