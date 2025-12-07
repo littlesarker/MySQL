@@ -191,6 +191,26 @@ SELECT * FROM Customers
 LIMIT 3; 
 
 
+MIN
+---
+The MIN() function returns the smallest value of the selected column.
+
+The following SQL statement finds the price of the cheapest product
+
+select MIN(price) as SobcheyeKomdami
+from Products;
+
+
+MAX
+---
+The following SQL statement finds the price of the most expensive product:
+
+The following SQL statement finds the price of the most expensive product:
+
+select MAX(price) as SobcheyeDami
+from Products;
+
+
 
 
 
