@@ -211,6 +211,31 @@ select MAX(price) as SobcheyeDami
 from Products;
 
 
+COUNT
+-----
+The COUNT() function returns the number of rows that matches a specified criterion.
+The following SQL statement finds the number of products:
+<img width="382" height="80" alt="image" src="https://github.com/user-attachments/assets/75c42526-51fe-49f3-bdd8-f42119af50a3" />
+
+
+AVG
+---
+The AVG() function returns the average value of a numeric column
+The following SQL statement finds the average price of all products
+<img width="247" height="99" alt="image" src="https://github.com/user-attachments/assets/7500a8f1-e7a1-4c9e-9bd0-e218cc00cf42" />
+
+SUM
+---
+The SUM() function returns the total sum of a numeric column.
+
+<img width="320" height="85" alt="image" src="https://github.com/user-attachments/assets/cba16866-0a6c-4ab8-ad07-e7df4d3fa3ac" />
+
+
+
+
+
+
+
 
 
 
