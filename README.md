@@ -253,6 +253,17 @@ The BETWEEN operator selects values within a given range. The values can be numb
 <img width="710" height="216" alt="image" src="https://github.com/user-attachments/assets/90707606-8ec1-4f73-a5bf-035052adf201" />\
 <img width="961" height="222" alt="image" src="https://github.com/user-attachments/assets/af5ae98e-2643-4e06-bbdf-6537e4bd91cb" />
 
+JOIN
+----
+A JOIN clause is used to combine rows from two or more tables, based on a related column between them.
+
+<img width="1261" height="441" alt="image" src="https://github.com/user-attachments/assets/88362491-8f65-45aa-bc36-8a499c21ce08" />
+
+INNER-JOIN
+----------
+
+
+
 
 
 
