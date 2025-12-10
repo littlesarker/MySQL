@@ -271,6 +271,12 @@ RIGHT-JOIN
 ----------
 <img width="1213" height="630" alt="image" src="https://github.com/user-attachments/assets/e9d49f69-2a0e-4d3c-8fa0-4a7bf892592d" />
 
+CROSS-JOIN
+----------
+
+<img width="930" height="592" alt="image" src="https://github.com/user-attachments/assets/e116d610-3c30-4ada-8e98-e397bca06485" />
+
+
 
 
 
