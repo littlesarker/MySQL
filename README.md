@@ -261,6 +261,8 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 
 INNER-JOIN
 ----------
+<img width="963" height="606" alt="image" src="https://github.com/user-attachments/assets/d46d080c-08e9-430a-bae1-855303d0f67c" />
+
 
 
 
