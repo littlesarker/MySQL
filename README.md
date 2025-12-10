@@ -263,6 +263,11 @@ INNER-JOIN
 ----------
 <img width="963" height="606" alt="image" src="https://github.com/user-attachments/assets/d46d080c-08e9-430a-bae1-855303d0f67c" />
 
+LEFT-JOIN
+---------
+<img width="1233" height="618" alt="image" src="https://github.com/user-attachments/assets/33cf3808-3a01-437d-a5f6-c3ca396bdf90" />
+
+
 
 
 
