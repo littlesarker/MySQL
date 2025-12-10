@@ -267,6 +267,11 @@ LEFT-JOIN
 ---------
 <img width="1233" height="618" alt="image" src="https://github.com/user-attachments/assets/33cf3808-3a01-437d-a5f6-c3ca396bdf90" />
 
+RIGHT-JOIN
+----------
+<img width="1213" height="630" alt="image" src="https://github.com/user-attachments/assets/e9d49f69-2a0e-4d3c-8fa0-4a7bf892592d" />
+
+
 
 
 
