@@ -279,6 +279,16 @@ SELF-JOIN
 ---------
 <img width="1018" height="367" alt="image" src="https://github.com/user-attachments/assets/08e31c06-6772-4158-8625-f419022fd6e7" />
 
+UNION
+-----
+<img width="1262" height="586" alt="image" src="https://github.com/user-attachments/assets/b8c438e2-e1e3-48a1-85ec-1d71ebf7cced" />
+
+UNION-ALL
+---------
+<img width="1234" height="638" alt="image" src="https://github.com/user-attachments/assets/4be7d072-d142-4991-805c-7f8d335f9026" />
+
+
+
 
 
 
