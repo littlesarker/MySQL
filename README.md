@@ -287,6 +287,18 @@ UNION-ALL
 ---------
 <img width="1234" height="638" alt="image" src="https://github.com/user-attachments/assets/4be7d072-d142-4991-805c-7f8d335f9026" />
 
+GROUP BY
+--------
+<img width="1271" height="488" alt="image" src="https://github.com/user-attachments/assets/a3bb8ca0-e197-470f-87fa-8d049efdf527" />
+
+HAVING
+------
+<img width="1282" height="462" alt="image" src="https://github.com/user-attachments/assets/511d7cc5-0175-4055-b31b-9bb7c87e830e" />
+
+
+
+
+
 
 
 
