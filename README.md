@@ -295,6 +295,16 @@ HAVING
 ------
 <img width="1282" height="462" alt="image" src="https://github.com/user-attachments/assets/511d7cc5-0175-4055-b31b-9bb7c87e830e" />
 
+CASE
+----
+<img width="1268" height="577" alt="image" src="https://github.com/user-attachments/assets/cf6b368c-7020-40cb-8e5a-44758cd74ce5" />
+
+COMMENTS
+--------
+<img width="927" height="493" alt="image" src="https://github.com/user-attachments/assets/503c8d6c-262d-46ea-b640-aadf10690b98" />
+
+
+
 
 
 
