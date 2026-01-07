@@ -303,6 +303,11 @@ COMMENTS
 --------
 <img width="927" height="493" alt="image" src="https://github.com/user-attachments/assets/503c8d6c-262d-46ea-b640-aadf10690b98" />
 
+ALTTER TABLE
+------------
+<img width="1245" height="542" alt="image" src="https://github.com/user-attachments/assets/18553398-4cd6-4a7d-a5b5-410e5e5d150a" />
+
+
 
 
 
