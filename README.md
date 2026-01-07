@@ -307,6 +307,12 @@ ALTTER TABLE
 ------------
 <img width="1245" height="542" alt="image" src="https://github.com/user-attachments/assets/18553398-4cd6-4a7d-a5b5-410e5e5d150a" />
 
+CONSTRAINTS 
+-----------
+<img width="1301" height="490" alt="image" src="https://github.com/user-attachments/assets/f517907a-6fcb-4567-a4e1-5d82b1bca7b3" />
+
+
+
 
 
 
