@@ -319,6 +319,11 @@ FOREIGN KEY
 -----------
 <img width="1170" height="296" alt="image" src="https://github.com/user-attachments/assets/684a3c91-77e9-40bf-977e-973a9bbb7725" />
 
+CHECK
+-----
+<img width="1282" height="727" alt="image" src="https://github.com/user-attachments/assets/fa587c8b-13c3-496a-86f2-c6c16f1e459f" />
+
+
 
 
 
