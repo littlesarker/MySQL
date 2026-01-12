@@ -311,6 +311,17 @@ CONSTRAINTS
 -----------
 <img width="1301" height="490" alt="image" src="https://github.com/user-attachments/assets/f517907a-6fcb-4567-a4e1-5d82b1bca7b3" />
 
+PRIMARY KEY
+-----------
+<img width="1287" height="686" alt="image" src="https://github.com/user-attachments/assets/baafc2b8-c292-410a-a9da-ed1974a2d0fc" />
+
+FOREIGN KEY
+-----------
+<img width="1170" height="296" alt="image" src="https://github.com/user-attachments/assets/684a3c91-77e9-40bf-977e-973a9bbb7725" />
+
+
+
+
 
 
 
