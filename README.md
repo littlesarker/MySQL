@@ -323,6 +323,11 @@ CHECK
 -----
 <img width="1282" height="727" alt="image" src="https://github.com/user-attachments/assets/fa587c8b-13c3-496a-86f2-c6c16f1e459f" />
 
+AUTO INCREMENT
+--------------
+<img width="1233" height="528" alt="image" src="https://github.com/user-attachments/assets/bdbda4d4-5ba9-4b68-965b-5cbf2ef8df94" />
+
+
 
 
 
